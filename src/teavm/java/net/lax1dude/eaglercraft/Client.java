@@ -197,7 +197,7 @@ public class Client {
 			isCrashed = true;
 
 			StringBuilder str = new StringBuilder();
-			str.append("Game Crashed!/"");
+			str.append("Game Crashed!/");
 			str.append(t);
 			str.append('\n').append('\n');
 			str.append("eaglercraft.version = \"").append(ConfigConstants.version).append("\"\n");
